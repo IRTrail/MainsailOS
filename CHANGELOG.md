@@ -2,6 +2,11 @@
 # Changelog
 All notable changes to MainsailOS will be documented in this file.
 
+## [0.0.3](https://github.com/mainsail-crew/MainsailOS/releases/tag/0.0.3) - 2024-08-18
+### Bug Fixes and Improvements
+
+- Change armbian_net module to headless_nm ([#6](https://github.com/mainsail-crew/MainsailOS/pull/6))
+
 ## [0.0.1](https://github.com/mainsail-crew/MainsailOS/releases/tag/0.0.1) - 2024-08-17
 ### Features
 
